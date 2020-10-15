@@ -13,7 +13,7 @@
 
 
 
-
+If you know any good tools that I can add here,please open an Issue
 
  ***keep it legal,cheating on exams is illegal in most countries,please keep that in mind***
 ## Motivation
