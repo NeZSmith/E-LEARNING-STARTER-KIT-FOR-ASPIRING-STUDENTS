@@ -17,4 +17,4 @@
 
  ***keep it legal,cheating on exams is illegal in most countries,please keep that in mind***
 ## Motivation
-E-Learning is back again and im too lazy to study to all this bullshit lessons
+E-Learning is back again and im too busy to study to all this bullshit lessons
