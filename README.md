@@ -1,4 +1,4 @@
-# E-LEARNING-STARTER-KIT-FOR-ASPIRING-STUDENTS
+# E-LEARNING STARTER KIT FOR ASPIRING STUDENTS
 ## Some cheats for site such a Quizizz,testportal,Quizlet,Kahoot
 
 
@@ -15,6 +15,6 @@
 
 
 
- 
+ ***keep it legal,cheating on exams is illegal in most countries,please keep that in mind***
 ## Motivation
 E-Learning is back again and im too lazy to study to all this bullshit lessons
