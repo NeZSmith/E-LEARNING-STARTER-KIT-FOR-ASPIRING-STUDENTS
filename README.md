@@ -8,7 +8,7 @@
 - https://github.com/JayantDwivedi/Quizziz-Hack -- Another JS script for Quizizz 
 - https://github.com/Naveq-DevTeam/CheatPack --  Google Chrome browser extension that allows you to cheat on learning platforms such as Testportal, Quizizz or Brainly
 - https://github.com/UndercoverGoose/quizlet -- Quizlet,Quizziz and GimKit cheats
-
+- https://github.com/daijro/Searchify -- Search bot written in Python,it will search your answers in google. WARNING: It may be slow on low end pc
 
 
 
