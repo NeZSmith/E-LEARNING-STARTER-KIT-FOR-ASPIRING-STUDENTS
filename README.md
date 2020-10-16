@@ -16,6 +16,6 @@
 
 If you know any good tools that I can add here,please open an Issue
 
- ***keep it legal,cheating on exams is illegal in most countries,please keep that in mind***
+ ***keep it legal,cheating on exams is illegal in most countries and sites,please keep that in mind***
 ## Motivation
 E-Learning is back again and im too busy to study to all this bullshit lessons
