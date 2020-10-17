@@ -1,6 +1,8 @@
 # ***E-LEARNING STARTER KIT FOR ASPIRING STUDENTS***
 ## Some cheats for site such a Quizizz,testportal,Quizlet,Kahoot
 
+## [**Check out FAQ**](https://github.com/NeZSmith/E-LEARNING-STARTER-KIT-FOR-ASPIRING-STUDENTS/blob/main/FAQ.md)
+
 - https://github.com/LQR471814/Quizizz-Hack --  Manully get answers from Quizizz *Without bot*
 - https://github.com/Lumm1t/anti-testportal  --  Minimalistic Chrome extension - bypass for blur check and time limit on testportal.pl(net). 
 - https://github.com/reteps/quizizz-bot  -- Quizizz bot written in Python
