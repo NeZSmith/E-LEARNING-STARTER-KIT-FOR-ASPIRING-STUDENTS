@@ -1,4 +1,4 @@
-# frequently asked questions
+# Frequently Asked Questions
 - **Can I use it to cheat on exams?**
 The law requires that I say no.
 - **Are every tools are up to date?** Im trying to keep only working tools. But if is problem with any tool,please contact to the author of the tool,not me.
