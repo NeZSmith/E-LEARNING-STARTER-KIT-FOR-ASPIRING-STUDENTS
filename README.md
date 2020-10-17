@@ -1,4 +1,4 @@
-# ***E-LEARNING STARTER KIT FOR ASPIRING STUDENTS***
+# **E-LEARNING STARTER KIT FOR ASPIRING STUDENTS**
 ## Some cheats for site such a Quizizz,testportal,Quizlet,Kahoot
 
 ## [**Check out FAQ**](https://github.com/NeZSmith/E-LEARNING-STARTER-KIT-FOR-ASPIRING-STUDENTS/blob/main/FAQ.md)
@@ -18,6 +18,5 @@
 
 If you know any good tools that I can add here,please open an Issue
 
- ***keep it legal,cheating on exams is illegal in most countries and sites,please keep that in mind***
 ## Motivation
 E-Learning is back again and im too busy to study to all this bullshit lessons
