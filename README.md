@@ -2,6 +2,7 @@
 ## Some cheats for site such a Quizizz,testportal,Quizlet,Kahoot
 
 ## [**Check out FAQ**](https://github.com/NeZSmith/E-LEARNING-STARTER-KIT-FOR-ASPIRING-STUDENTS/blob/main/FAQ.md)
+- https://github.com/NeZSmith/testportal.pl_simple_time_bypass -- testportal simple js time bypass
 - https://github.com/MrCyjaneK/testportal-multitool -- testportal.pl firefox js script
 - https://github.com/LQR471814/Quizizz-Hack --  Manully get answers from Quizizz *Without bot*
 - https://github.com/Lumm1t/anti-testportal  --  Minimalistic Chrome extension - bypass for blur check and time limit on testportal.pl(net). 
