@@ -4,6 +4,7 @@
 ## [**Check out FAQ**](https://github.com/NeZSmith/E-LEARNING-STARTER-KIT-FOR-ASPIRING-STUDENTS/blob/main/FAQ.md)
 **IMPORTANT**
 Quizizz is checking answers server side now,so it means that most scripts wont work,but you still can use search bot
+- https://addons.mozilla.org/en-US/firefox/addon/antitestportal/ -- testportal firefox addon
 - https://github.com/NeZSmith/testportal.pl_simple_time_bypass -- testportal simple js time bypass
 - https://github.com/MrCyjaneK/testportal-multitool -- testportal.pl firefox js script
 - https://github.com/LQR471814/Quizizz-Hack --  Manully get answers from Quizizz *Without bot* //outdated
